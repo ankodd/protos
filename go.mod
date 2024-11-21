@@ -1,3 +1,3 @@
-module github.com/ankodd/grpc-service/protos
+module github.com/ankodd/protos
 
 go 1.23.3
