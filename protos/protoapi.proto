@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-option go_package = "../api";
+option go_package = "github.com/ankodd/protos/api";
 
 service Random {
   rpc GetDate (RequestDateTime) returns (DateTime);
